@@ -1,6 +1,6 @@
 <header>
 
-# Data Structures and Data Mining With Python Continuing Professional Educational Course #234 
+# Data Structures and Data Mining With Python Continuing Professional Educational Course #234PYT304 
 
 This is the fifth class offered by the University of California, Davis towards earning a Python for Data Analysis Professional Concentration certificate
 </header>
