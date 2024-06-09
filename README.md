@@ -16,6 +16,8 @@ This repository will contain my weekly assignment submissions.
 - Week 3: AWS Data Engineering (Processing Big Data) [AWS Academy Data Engineering 81294 Module 9 Lab: Processing Logs by Using Amazon EMR](/Assignments/Module_3_Assignment.jpg "Week 3 Lab Grade screenshot")
 - Week 4: Scalable Computing (Dask and UCX) [Dask Dataframes](/Assignments/Module_4_Assignment.ipynb "Week 4 Notebook file")
 - Week 5: AWS Data Engineering (Storing and Organizing Data) [AWS Academy Data Engineering 81294 Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue](/Assignments/Module_5_Assignment.jpg "Week 5 Lab Grade screenshot")
+- Week 6: Code Backup and Version Control [AWS Academy Data Engineering 81294 Module 12 Lab: Lab: Building and Orchestrating ETL Pipelines by Using Athena and Step Functions](/Assignments/Module_6_Assignment.jpg "Week 6 Lab Grade screenshot")
+
 
 ### What's next?
 
