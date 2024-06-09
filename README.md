@@ -13,7 +13,7 @@ machine learning and deep learning operations for artificial intelligence applic
 This repository will contain my weekly assignment submissions.
 - Week 1: Introduction To Data Science [Configuring an NVIDIA Rapids AI environment in Google Colab and utilize the RAPIDS data science framework](/Assignments/Module_1_Assignment.ipynb "Week 1 Notebook file")
 - Week 2: Data Collection [Scrapy: How to build your first production scrapper!](/Assignments/chocolatespider.py "Week 2 spider.py file")
-- You selected a theme using the config file.
+- Week 3: AWS Data Engineering (Processing Big Data) [AWS Academy Data Engineering 81294 Module 9 Processing Logs by Using Amazon EMR](/Assignments/Module_3_Assignment.jpg "Week 3 Lab Grade screenshot")
 - You learned about proper directory format and file naming conventions in Jekyll.
 - You created your first blog post with Jekyll!
 
