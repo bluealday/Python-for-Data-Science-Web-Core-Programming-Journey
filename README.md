@@ -1,34 +1,18 @@
 <header>
 
-<!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
--->
+# Data Structures and Data Mining With Python Continuing Professional Educational Course 
 
-# GitHub Pages
-
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
+This is the fifth class offered by the University of California, Davis towards earning a Python for Data Analysis Professional Concentration certificate
 </header>
 
-<!--
-  <<< Author notes: Finish >>>
-  Review what we learned, ask for feedback, provide next steps.
--->
+## Course overview and summary
+The 7 week online asynchronous course consists of weekly online course materials, quizzes, discussions, and assignments. It is designed to equip the student with "the foundational knowledge and hands
+on experience to build a portfolio through data engineering pipelines, data science workflows, and
+machine learning and deep learning operations for artificial intelligence application deployment" per the syllabus. 
 
-## Finish
-
-_Congratulations friend, you've completed this course!_
-
-<img src=https://octodex.github.com/images/constructocat2.jpg alt=celebrate width=300 align=right>
-
-Your blog is now live and has been deployed!
-
-Here's a recap of all the tasks you've accomplished in your repository:
-
-- You enabled GitHub Pages.
+This repository will contain my weekly assignment submissions.
+- Week 1: Introduction To Data Science [Configuring an NVIDIA Rapids AI environment in Google Colab and utilize the RAPIDS data science framework](/Assignments/Module_1_Assignment.ipynb "Week 1 Notebook file")
+- Week 2: Data Collection [Scrapy: How to build your first production scrapper!](/Assignments/chocolatespider.py "Week 2 spider.py file")
 - You selected a theme using the config file.
 - You learned about proper directory format and file naming conventions in Jekyll.
 - You created your first blog post with Jekyll!
