@@ -1,9 +1,7 @@
-# Data Structures and Data Mining With Python Continuing Professional Educational Course #234PYT304 
 
-This is the fifth class offered by the University of California, Davis towards earning a Python for Data Analysis Professional Concentration certificate
 
-## Course overview and summary
-The 7 week online asynchronous course consists of weekly online course materials, quizzes, discussions, and assignments. It is designed to equip the student with "the foundational knowledge and hands
+## Data Structures and Data Mining With Python Continuing Professional Educational Course #234PYT304 overview and summary
+The 7 week online asynchronous course consists of weekly online course materials, quizzes, discussions, and assignments and is the fifth class offered by the University of California, Davis towards earning a Python for Data Analysis Professional Concentration certificate. It is designed to equip the student with "the foundational knowledge and hands
 on experience to build a portfolio through data engineering pipelines, data science workflows, and
 machine learning and deep learning operations for artificial intelligence application deployment" per the syllabus. 
 
