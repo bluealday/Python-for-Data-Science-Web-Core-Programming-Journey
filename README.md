@@ -19,7 +19,7 @@ This repository contains my weekly assignment submissions for **each 7-week long
 - Week 7: AWS Data Engineering (Processing Data for ML)
 
 
-# Class 4: Machine Learning
+# Class 4: Introduction to Machine Learning with Python
 
 - Enrolled in the Sept 2024 course since the original course offering was cancelled April 2024
 
