@@ -2,6 +2,8 @@ I successfully completed the **Data Structures and Data Mining With Python Conti
 
 This repository contains my weekly assignment submissions.
 
+# Data Structures and Data Mining With Python 
+
 - Week 1: Introduction To Data Science [Configuring an NVIDIA Rapids AI environment in Google Colab and utilize the RAPIDS data science framework](Assignments/05-Data-Mining/Module_1_Assignment.ipynb "Week 1 Notebook file")
 
 - Week 2: Data Collection [Scrapy: How to build your first production scrapper!](Assignments/05-Data-Mining/chocolatespider.py "Week 2 spider.py file")
@@ -15,6 +17,23 @@ This repository contains my weekly assignment submissions.
 - Week 6: Code Backup and Version Control [AWS Academy Data Engineering 81294 Module 12 Lab: Lab: Building and Orchestrating ETL Pipelines by Using Athena and Step Functions](Assignments/05-Data-Mining/Module_6_Assignment.jpg "Week 6 Lab Grade screenshot")
 
 - Week 7: AWS Data Engineering (Processing Data for ML)
+
+
+# Introduction to Python 
+
+- Week 1: Overview [Homework 1](Assignments/01-Intro-To-Python/Week-1-Homework.py "Week 1 Python file")
+
+- Week 2: Basic Data Types, Exception Handling, Simple Functions [Homework 2](Assignments/01-Intro-To-Python/Week-2-Homework.ipynb "Week 2 Notebook file")
+
+- Week 3: Data Structures, Built-In Functions, Conditional Flows, Loops, Operators [Homework 3](Assignments/01-Intro-To-Python/Week-3-Homework.ipynb "Week 3 Notebook file")
+
+- Week 4: Control Flow [Homework 4](Assignments/01-Intro-To-Python/Week-4-Homework.ipynb "Week 4 Notebook file")
+
+- Week 5: File Read and Write/ Data Cleaning Strategies [Homework 5](Assignments/01-Intro-To-Python/Week-5-Homework.ipynb "Week 5 Notebook file")
+
+- Week 6: Importing Modules, Functional Programming, Date and Time related functions [Homework 6](Assignments/01-Intro-To-Python/Week-6-Homework.ipynb "Week 6 Notebook file")
+
+- Week 7: NumPy and Matplotlib [Homework 7](Assignments/01-Intro-To-Python/Week-7-Homework.ipynb "Week 7 Notebook file")
 
 ### What's next?
 
