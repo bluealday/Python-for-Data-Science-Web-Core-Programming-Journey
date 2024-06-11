@@ -2,7 +2,7 @@ I successfully completed the **Data Structures and Data Mining With Python Conti
 
 This repository contains my weekly assignment submissions for each class in the certification program.
 
-# Data Structures and Data Mining With Python 
+# Class 5: Data Structures and Data Mining With Python 
 
 - Week 1: Introduction To Data Science [Configuring an NVIDIA Rapids AI environment in Google Colab and utilize the RAPIDS data science framework](Assignments/05-Data-Mining/Module_1_Assignment.ipynb "Week 1 Notebook file")
 
@@ -19,7 +19,24 @@ This repository contains my weekly assignment submissions for each class in the 
 - Week 7: AWS Data Engineering (Processing Data for ML)
 
 
-# Introduction to Python 
+# Class 2: Python and Data Analysis 
+
+- Week 1: Data Types, Reading Data, and Other Fun Things [Homework 1](Assignments/02-Python-Data-Analytics/Week1_ProblemSet.ipynb "Week 1 Notebook file")
+
+- Week 2: Data Types, Data Cleaning, Basic Statistics, Joins [Homework 2](Assignments/02-Python-Data-Analytics/Week2_ProblemSet.ipynb "Week 2 Notebook file")
+
+- Week 3: Clean Coding and Documentation [Homework 3](Assignments/02-Python-Data-Analytics/Week3_ProblemSet.ipynb "Week 3 Notebook file")
+
+- Week 4: Data Analysis Cycle [Homework 4](Assignments/02-Python-Data-Analytics/Week4_ProblemSet.ipynb "Week 4 Notebook file")
+
+- Week 5: Data Visualization [Homework 5](Assignments/02-Python-Data-Analytics/Week5_ProblemSet.ipynb "Week 5 Notebook file")
+
+- Week 6: Regression and Classification Modeling [Homework 6](Assignments/02-Python-Data-Analytics/Week6_ProblemSet.ipynb "Week 6 Notebook file")
+
+- Week 7: Interpreting Results in Python [Homework 7](https://github.com/bluealday/python-data-analysis "Final Project")
+
+
+# Class 1: Introduction to Python 
 
 - Week 1: Overview [Homework 1](Assignments/01-Intro-To-Python/Week-1-Homework.py "Week 1 Python file")
 
