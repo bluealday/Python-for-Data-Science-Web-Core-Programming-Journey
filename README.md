@@ -1,6 +1,6 @@
 I successfully completed the **Data Structures and Data Mining With Python Continuing Professional Educational Course (#234PYT304)**, a 7 week online experience consisting of weekly course materials, quizzes, discussions, and assignments. As the fifth class offered by the University of California, Davis towards earning a Python for ***Data Analysis Professional Concentration certificate***, it equips the student with "the foundational knowledge and hands on experience to build a portfolio through data engineering pipelines, data science workflows, and machine learning and deep learning operations for artificial intelligence application deployment" per the syllabus. 
 
-This repository contains my weekly assignment submissions for each class in the certification program.
+This repository contains my weekly assignment submissions for **each 7-week long class** in the certification program.
 
 # Class 5: Data Structures and Data Mining With Python 
 
