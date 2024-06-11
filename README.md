@@ -1,6 +1,6 @@
 I successfully completed the **Data Structures and Data Mining With Python Continuing Professional Educational Course (#234PYT304)**, a 7 week online experience consisting of weekly course materials, quizzes, discussions, and assignments. As the fifth class offered by the University of California, Davis towards earning a Python for ***Data Analysis Professional Concentration certificate***, it equips the student with "the foundational knowledge and hands on experience to build a portfolio through data engineering pipelines, data science workflows, and machine learning and deep learning operations for artificial intelligence application deployment" per the syllabus. 
 
-This repository contains my weekly assignment submissions for **each 7-week long class** in the certification program.
+This repository contains my weekly assignment submissions for **each 7-week long class** in the certification program taken each quarter.
 
 # Class 5: Data Structures and Data Mining With Python 
 
@@ -17,6 +17,11 @@ This repository contains my weekly assignment submissions for **each 7-week long
 - Week 6: Code Backup and Version Control [AWS Academy Data Engineering 81294 Module 12 Lab: Lab: Building and Orchestrating ETL Pipelines by Using Athena and Step Functions](Assignments/05-Data-Mining/Module_6_Assignment.jpg "Week 6 Lab Grade screenshot")
 
 - Week 7: AWS Data Engineering (Processing Data for ML)
+
+
+# Class 4: Machine Learning (Enrolled in the Sept 2024 course since the original course offering was cancelled April 2024) 
+
+- Scheduled
 
 
 # Class 2: Python and Data Analysis 
