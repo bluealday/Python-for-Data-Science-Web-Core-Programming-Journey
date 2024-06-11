@@ -33,7 +33,7 @@ This repository contains my weekly assignment submissions for **each 7-week long
 
 - Week 6: Regression and Classification Modeling [Homework 6](Assignments/02-Python-Data-Analytics/Week6_ProblemSet.ipynb "Week 6 Notebook file")
 
-- Week 7: Interpreting Results in Python [Homework 7](https://github.com/bluealday/python-data-analysis "Final Project")
+- Week 7: Interpreting Results in Python [Homework 7](https://github.com/bluealday/Loan-Defaults-Intro-to-Data-Analysis-Group-Project "Final Group Project")
 
 
 # Class 1: Introduction to Python 
