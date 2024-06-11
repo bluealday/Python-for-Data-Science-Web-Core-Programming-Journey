@@ -30,15 +30,15 @@ This repository contains my weekly assignment submissions for **each 7-week long
 
 - Week 2: Basic Data Types, Exception Handling, Simple Functions [Homework 2 main file](Assignments/03-Intermediate-Python/week_2_assignment.py "Week 2 Python file") [Homework 2 test file](Assignments/03-Intermediate-Python/week_2_assignment_test.py "Week 2 Python test file")
 
-- Week 3: Data Structures, Built-In Functions, Conditional Flows, Loops, Operators [Homework 3](Assignments/03-Intermediate-Python/Week-3-Homework.ipynb "Week 3 Notebook file")
+- Week 3: Data Structures, Built-In Functions, Conditional Flows, Loops, Operators [Homework 3 main file](Assignments/03-Intermediate-Python/week_3_assignment.py "Week 3 Python file") [Homework 3 test file](Assignments/03-Intermediate-Python/week_3_assignment_test.py "Week 3 Python test file")
+  
+- Week 4: Control Flow [Homework 4 main file](Assignments/03-Intermediate-Python/week_4_assignment.py "Week 4 Python file") [Homework 4 test file](Assignments/03-Intermediate-Python/week_4_assignment_test.py "Week 4 Python test file")
 
-- Week 4: Control Flow [Homework 4](Assignments/03-Intermediate-Python/Week-4-Homework.ipynb "Week 4 Notebook file")
+- Week 5: File Read and Write/ Data Cleaning Strategies [Homework 5 main file](Assignments/03-Intermediate-Python/week_5_assignment.py "Week 5 Python file") [Homework 5 test file](Assignments/03-Intermediate-Python/week_5_assignment_test.py "Week 5 Python test file")
 
-- Week 5: File Read and Write/ Data Cleaning Strategies [Homework 5](Assignments/03-Intermediate-Python/Week-5-Homework.ipynb "Week 5 Notebook file")
+- Week 6: Importing Modules, Functional Programming, Date and Time related functions [Homework 6 main file](Assignments/03-Intermediate-Python/week_6_assignment.py "Week 6 Python file") [Homework 6 test file](Assignments/03-Intermediate-Python/week_6_assignment_test.py "Week 6 Python test file")
 
-- Week 6: Importing Modules, Functional Programming, Date and Time related functions [Homework 6](Assignments/03-Intermediate-Python/Week-6-Homework.ipynb "Week 6 Notebook file")
-
-- Week 7: NumPy and Matplotlib [Homework 7](Assignments/03-Intermediate-Python/Week-7-Homework.ipynb "Week 7 Notebook file")
+- Week 7: NumPy and Matplotlib [Homework 7 main file](Assignments/03-Intermediate-Python/week_7_assignment.py "Week 7 Python file") [Homework 7 test file](Assignments/03-Intermediate-Python/week_7_assignment_test.py "Week 7 Python test file")
 
 
 # Class 2: Python and Data Analysis 
