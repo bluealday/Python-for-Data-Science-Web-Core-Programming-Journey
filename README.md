@@ -19,9 +19,26 @@ This repository contains my weekly assignment submissions for **each 7-week long
 - Week 7: AWS Data Engineering (Processing Data for ML)
 
 
-# Class 4: Machine Learning (Enrolled in the Sept 2024 course since the original course offering was cancelled April 2024) 
+# Class 4: Machine Learning
 
-- Scheduled
+- Enrolled in the Sept 2024 course since the original course offering was cancelled April 2024
+
+
+# Class 3: Intermediate Python 
+
+- Week 1: Environment Setup, VS Code, Interactive Python, Running Scripts, String Formatting, Debuging [Homework 1 main file](Assignments/03-Intermediate-Python/week_1_assignment.py "Week 1 Python file") [Homework 1 test file](Assignments/03-Intermediate-Python/week_1_assignment_test.py "Week 1 Python test file")
+
+- Week 2: Basic Data Types, Exception Handling, Simple Functions [Homework 2 main file](Assignments/03-Intermediate-Python/week_2_assignment.py "Week 2 Python file") [Homework 2 test file](Assignments/03-Intermediate-Python/week_2_assignment_test.py "Week 2 Python test file")
+
+- Week 3: Data Structures, Built-In Functions, Conditional Flows, Loops, Operators [Homework 3](Assignments/03-Intermediate-Python/Week-3-Homework.ipynb "Week 3 Notebook file")
+
+- Week 4: Control Flow [Homework 4](Assignments/03-Intermediate-Python/Week-4-Homework.ipynb "Week 4 Notebook file")
+
+- Week 5: File Read and Write/ Data Cleaning Strategies [Homework 5](Assignments/03-Intermediate-Python/Week-5-Homework.ipynb "Week 5 Notebook file")
+
+- Week 6: Importing Modules, Functional Programming, Date and Time related functions [Homework 6](Assignments/03-Intermediate-Python/Week-6-Homework.ipynb "Week 6 Notebook file")
+
+- Week 7: NumPy and Matplotlib [Homework 7](Assignments/03-Intermediate-Python/Week-7-Homework.ipynb "Week 7 Notebook file")
 
 
 # Class 2: Python and Data Analysis 
