@@ -2,6 +2,8 @@ I successfully completed the **Data Structures and Data Mining With Python Conti
 
 This repository contains my weekly assignment submissions for **each 7-week long class** in the certification program taken each quarter.
 
+**Certification Program Grade Average: A+**
+
 # Class 5: Data Structures and Data Mining With Python 
 
 - Week 1: Introduction To Data Science [Configuring an NVIDIA Rapids AI environment in Google Colab and utilize the RAPIDS data science framework](Assignments/05-Data-Mining/Module_1_Assignment.ipynb "Week 1 Notebook file")
