@@ -23,7 +23,7 @@ This repository contains my weekly assignment submissions and applicable group f
 
 # Class 4: Introduction to Machine Learning with Python
 
-- Week 1: Data Description [Homework 1 NumPy file](Assignments/04-Intro-ML/02_numpy_final.ipynb "Week 1 NumPy Notebook file") [Homework 1 Pandas file](Assignments/04-Intro-ML/Pandas_final_Questions-1-1.ipynb "Week 1 Pandas Notebook file") [Homework 1 Pandas input file](Assignments/04-Intro-ML/alcohol_data.csv "Week 1 Input file") 
+- Week 1: Data Description [Homework 1 NumPy file](Assignments/04-Intro-ML/Week1/02_numpy_final.ipynb "Week 1 NumPy Notebook file") [Homework 1 Pandas file](Assignments/04-Intro-ML/Week1/Pandas_final_Questions-1-1.ipynb "Week 1 Pandas Notebook file") [Homework 1 Pandas input file](Assignments/04-Intro-ML/Week1/alcohol_data.csv "Week 1 Input file") 
 
 - Week 2: Data Exploration and Feature Engineering [Scrapy: How to build your first production scrapper!](Assignments/05-Data-Mining/chocolatespider.py "Week 2 spider.py file")
 
