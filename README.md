@@ -32,7 +32,7 @@ This repository contains my weekly assignment submissions and applicable group f
 
 - Week 5: Decision Trees and Random Forests [Homework 5 Assignment file](Assignments/04-Intro-ML/Week5/Assignment_5.ipynb "Week 5 Main Notebook file") [Homework 5 Main Notebook input file](Assignments/04-Intro-ML/Week5/Boston.csv "Week 5 Input file")
 
-- Week 6: Evaluation and Improvement of Performance of the Model [AWS Academy Data Engineering 81294 Module 12 Lab: Lab: Building and Orchestrating ETL Pipelines by Using Athena and Step Functions](Assignments/05-Data-Mining/Module_6_Assignment.jpg "Week 6 Lab Grade screenshot")
+- Week 6: Evaluation and Improvement of Performance of the Model 
 
 - Week 7: Final Project and Course Wrap-Up [AWS Academy Data Engineering 81294 Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue](Assignments/05-Data-Mining/Module_5_Assignment.jpg "Week 5 Lab Grade screenshot")
 
