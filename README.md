@@ -26,9 +26,9 @@ This repository contains my weekly assignment submissions and applicable group f
 - Week 1: Data Description [Homework 1 NumPy file](Assignments/04-Intro-ML/Week1/02_numpy_final.ipynb "Week 1 NumPy Notebook file") [Homework 1 Pandas file](Assignments/04-Intro-ML/Week1/Pandas_final_Questions-1-1.ipynb "Week 1 Pandas Notebook file") [Homework 1 Pandas input file](Assignments/04-Intro-ML/Week1/alcohol_data.csv "Week 1 Input file") 
 
 - Week 2: Data Exploration and Feature Engineering [Homework 2 Assignment file](Assignments/04-Intro-ML/Week2/ForestFires-Assignment.ipynb "Week 2 Main Notebook file") [Homework 2 Main Notebook input file](Assignments/04-Intro-ML/Week2/forestfires.csv "Week 2 Input file") [Homework 2 Pandas cleanning assignment file](Assignments/04-Intro-ML/Week2/Pandas%20Data%20Clean-Ass1.ipynb "Week 2 Pandas Notebook file") 
-- Week 3: Regression and Classification [AWS Academy Data Engineering 81294 Module 9 Lab: Processing Logs by Using Amazon EMR](Assignments/05-Data-Mining/Module_3_Assignment.jpg "Week 3 Lab Grade screenshot")
+- Week 3: Regression and Classification 
 
-- Week 4: Classification, Bayesian Algorithm [Dask Dataframes](Assignments/05-Data-Mining/Module_4_Assignment.ipynb "Week 4 Notebook file")
+- Week 4: Classification, Bayesian Algorithm [Homework 4 Assignment file](Assignments/04-Intro-ML/Week4/Assignment4.ipynb "Week 4 Main Notebook file") [Homework 4 Main Notebook input file](Assignments/04-Intro-ML/Week4/tennis_data.csv "Week 4 Input file")
 
 - Week 5: Decision Trees and Random Forests [AWS Academy Data Engineering 81294 Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue](Assignments/05-Data-Mining/Module_5_Assignment.jpg "Week 5 Lab Grade screenshot")
 
