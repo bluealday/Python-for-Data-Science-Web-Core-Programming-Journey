@@ -34,8 +34,7 @@ This repository contains my weekly assignment submissions and applicable group f
 
 - Week 6: Evaluation and Improvement of Performance of the Model 
 
-- Week 7: Final Project and Course Wrap-Up [AWS Academy Data Engineering 81294 Module 7 Lab: Performing ETL on a Dataset by Using AWS Glue](Assignments/05-Data-Mining/Module_5_Assignment.jpg "Week 5 Lab Grade screenshot")
-
+- Week 7: Final Project and Course Wrap-Up [Group Final Project Notebook file](Assignments/04-Intro-ML/Week7/Week%207%20Project_Final_BA_RO_AR.ipynb "Group Final Project Main Notebook file") [Group Final Project Main Notebook input file](Assignments/04-Intro-ML/Week7/Predict%20Student%20Dropout%20and%20Academic%20Success.csv "Group Final Project Input file") [Group Final Project Report file](Assignments/04-Intro-ML/Week7/ML_Project_Report_Final.docx "Group Final Project Report file")
 
 # Class 3: Intermediate Python 
 
